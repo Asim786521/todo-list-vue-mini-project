@@ -31,6 +31,7 @@ input:not([type="radio"]):not([type="checkbox"]), button {
 body {
 	background: var(--light);
 	color: var(--dark);
+	background-image: url(https://cdn.pixabay.com/photo/2017/08/06/06/18/checklist-2589418_1280.jpg);
 }
 
 section {
